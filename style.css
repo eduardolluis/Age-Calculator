@@ -74,16 +74,14 @@ body {
 }
 
 img {
-    background-color: #000;
     border-radius: 50%;
     width: 75px;
     height: 75px;
     cursor: pointer;
-
     margin-top: 55px;
     margin-left: 25px;
     background-color: hsl(259, 100%, 65%);
-        transition: background-color 0.3s; 
+    transition: background-color 0.3s; 
 
 
 }
