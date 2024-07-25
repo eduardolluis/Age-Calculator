@@ -79,14 +79,15 @@ img {
     width: 75px;
     height: 75px;
     cursor: pointer;
-    transition: background-color 0.3s; 
+
     margin-top: 55px;
     margin-left: 25px;
+    background-color: hsl(259, 100%, 65%);
+        transition: background-color 0.3s; 
+
+
 }
 
-img:hover {
-    background-color: hsl(259, 100%, 65%);
-}
 
 @media screen and (max-width: 576px) {
     .container {
